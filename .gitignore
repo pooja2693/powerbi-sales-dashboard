@@ -1,0 +1,8 @@
+# Power BI
+*.pbix.lock
+*.zip
+/cache
+/temp
+# Sensitive data
+*.csv
+credentials.json
