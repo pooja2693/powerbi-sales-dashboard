@@ -11,12 +11,14 @@ Files
 
 apollodashboard.pbix: The main Power BI dashboard file.
 
+Dashboard Preview
+
+View Apollo Dashboard PDF [https://github.com/pooja2693/powerbi-sales-dashboard/blob/main/apollodashboard.pdf]
+
 Notes
 
 This dashboard does not include the original data due to sensitivity. You’ll need to connect to your own data source.
 For large .pbix files, consider using Git LFS if you encounter file size issues in future uploads.
 If you have feedback or suggestions, feel free to open an issue in this repository.
 
-Pdf for dashboard....
-[View Apollo Dashboard PDF]((https://github.com/pooja2693/powerbi-sales-dashboard/blob/main/apollodashboard.pdf))
 
